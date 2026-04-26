@@ -60,7 +60,7 @@ This project solves that by providing a centralized system to track each stage o
 
 📋 Active Jobs
 
-"Active Jobs" (./assets/active_jobs.png)
+![Active Jobs](https://github.com/SatyamChauhan2005/FMS-Tracker/blob/main/4.png)
 
 ✅ Completed Jobs
 
