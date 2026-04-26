@@ -56,7 +56,7 @@ This project solves that by providing a centralized system to track each stage o
 
 ✏️ Update Task
 
-![Update Task] (./assets/update.png)
+![Update Task](https://github.com/SatyamChauhan2005/FMS-Tracker/blob/main/2.png)
 
 📋 Active Jobs
 
