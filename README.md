@@ -52,11 +52,11 @@ This project solves that by providing a centralized system to track each stage o
 
 📊 Dashboard
 
-"Dashboard" ([./assets/dashboard.png](https://github.com/SatyamChauhan2005/FMS-Tracker/blob/main/1.png))
+![Dashboard](https://github.com/SatyamChauhan2005/FMS-Tracker/blob/main/1.png)
 
 ✏️ Update Task
 
-"Update Task" (./assets/update.png)
+![Update Task] (./assets/update.png)
 
 📋 Active Jobs
 
