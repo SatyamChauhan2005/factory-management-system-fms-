@@ -64,7 +64,7 @@ This project solves that by providing a centralized system to track each stage o
 
 ✅ Completed Jobs
 
-"Completed Jobs" (./assets/completed.png)
+![Completed Job](https://github.com/SatyamChauhan2005/FMS-Tracker/blob/main/5.png)
 
 ---
 
