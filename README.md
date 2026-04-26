@@ -107,7 +107,7 @@ This project was built to solve real-world production tracking challenges and im
 
 If you found this useful or want to collaborate:
 
-- LinkedIn: [Your LinkedIn Link]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/satyamchauhan2005]
+- Email: [chauhansatyamsilika@gmail.com]
 
 ---
